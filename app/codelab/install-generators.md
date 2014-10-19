@@ -17,10 +17,10 @@ You can install Yeoman generators using the [npm](https://www.npmjs.org) command
 Install [generator-angular](https://www.npmjs.org/package/generator-angular) using this command:
 
 ```sh
-$ npm install --global generator-angular@0.9.2
+$ npm install --global generator-angular@0.9.8
 ```
 
-This will start to install the Node packages required for the generator. Using `@0.9.2` will request a specific version of the generator.
+This will start to install the Node packages required for the generator. Using `@0.9.8` will request a specific version of the generator.
 
 <div class="note important">
 
@@ -29,7 +29,7 @@ This will start to install the Node packages required for the generator. Using `
   <p>If you see permission or access errors, you will need to install the generator using <code>sudo</code>, like so:</p>
 
 <pre>
-$ sudo npm install --global generator-angular@0.9.2
+$ sudo npm install --global generator-angular@0.9.8
 </pre>
 
 </div>
